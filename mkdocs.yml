@@ -1,6 +1,6 @@
 site_name: Wiki1
 site_author: Wiki2
-site_url: https://julopezc-acciona.github.io/wiki
+site_url: https://hulopezm.github.io/wiki
 nav:
   - Introduction: 'index.md'
 
@@ -10,5 +10,5 @@ theme:
     primary: 'blue grey'
     accent: 'light blue'
 
-repo_name: julopezc-acciona/wiki
-repo_url: https://julopezc-acciona.github.io/wiki
+repo_name: hulopezm/wiki
+repo_url: https://hulopezm.github.io/wiki
