@@ -1,6 +1,7 @@
 site_name: Wiki1
 site_author: Wiki2
-site_url: https://hulopezm.github.io/wiki
+site_url: https://github.com/hulopezm/wiki
+
 nav:
   - Introduction: "index.md"
   - Databases:
@@ -13,4 +14,4 @@ theme:
     accent: "light blue"
 
 repo_name: hulopezm/wiki
-repo_url: https://github.com/hulopezm/wiki
+repo_url: https://hulopezm.github.io/wiki
