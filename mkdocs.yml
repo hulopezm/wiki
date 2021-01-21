@@ -1,5 +1,6 @@
 site_name: Wiki1
 site_author: Wiki2
+site_url: https://github.com/hulopezm
 
 nav:
   - Introduction: "index.md"
