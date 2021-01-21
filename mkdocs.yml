@@ -4,7 +4,7 @@ site_url: https://hulopezm.github.io/wiki
 nav:
   - Introduction: "index.md"
   - Databases:
-      -Databases: Databases/ddbb.md
+      - Databases: Databases/ddbb.md
 
 theme:
   name: material
